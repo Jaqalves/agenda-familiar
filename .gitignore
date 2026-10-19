@@ -1,0 +1,23 @@
+# Ambiente e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Credenciais e arquivos da execução local
+.env
+.env.*
+credentials*.json
+client_secret*.json
+token*.json
+config.json
+preferencias.json
+perfil-whatsapp/
+envios.json
+teste_ok.json
+agendamento.json
+tentativas.json
+rotina.lock
+previa.txt
+*.log
+*.plist
